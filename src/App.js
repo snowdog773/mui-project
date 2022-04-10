@@ -11,7 +11,7 @@ class App extends Component {
       <>
         <BrowserRouter>
           <header>
-            <h1>Countdown to Date</h1>
+            <h1>It's The Final Countdown</h1>
             <nav>
               <Link to="/12/25">Xmas</Link>
               <Link to="/04/29">My Birthday</Link>
